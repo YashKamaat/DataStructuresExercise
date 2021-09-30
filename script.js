@@ -19,6 +19,14 @@ console.log(jedi);
 // 1E
 console.log(jedi[1]);
 // ========
+// 1F
+jedi.pop();
+console.log(jedi); 
+// ========
+// 1G
+jedi.shift();
+console.log(jedi); 
+// ========
 // 2A
 const sithLords = ["Darth Vader", "Darth Sidious", "Darth Maul"];
 // ========
